@@ -1,4 +1,4 @@
-require_relative '../my_server.rb'
+require_relative '../myserver.rb'
 require 'rack'
 require 'rack/test'
 
